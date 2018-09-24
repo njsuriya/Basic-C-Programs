@@ -5,3 +5,4 @@ Why ternary? because it uses 3 operands
 Only ternary operator in C.
 
 Recursive function-- The solution of the problem is the problem itself.
+Improper use recursive function leads to the stackoverflow
